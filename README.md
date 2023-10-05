@@ -1,6 +1,7 @@
 # ebook Application📚
 
-A Flutter project wherhe user can read online e books.
+
+eBook app  helps you read books wherever you are, with just your phone screen.A simple and user friendly ebook application .
 
 # OutPut screen
 
