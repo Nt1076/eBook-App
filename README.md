@@ -1,6 +1,6 @@
 # ebook_app
 
-A new Flutter project.
+A Flutter project wherhe user can read online e books.
 
 ## Getting Started
 
