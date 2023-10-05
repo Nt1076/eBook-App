@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045473339587",
+    "project_id": "my-flutter-project-3ce10",
+    "storage_bucket": "my-flutter-project-3ce10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045473339587:android:5126e12aaa9c91081dda76",
+        "android_client_info": {
+          "package_name": "com.example.ebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045473339587-q82q2vec7kgtnvbpkim8kt6gvistsa05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIeBf83jIGYE_yPkErOL8sPK6LiCWLiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045473339587-q82q2vec7kgtnvbpkim8kt6gvistsa05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
